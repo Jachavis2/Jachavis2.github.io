@@ -8,11 +8,11 @@
 
 <style>
 
-body{background-color:EFBE25}
+body{background-color:EFBE25;}
 
-h1{color:3AB7BF}
+h1{color:3AB7BF;}
 
-p{color:EC5C4E}
+p{color:EC5C4E;}
 
 </style>
 
