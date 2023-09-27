@@ -8,11 +8,11 @@
 
 <style>
 
-body{background-color:EFBE25;}
+body{background-color:#EFBE25;}
 
-h1{color:3AB7BF;}
+h1{color:#3AB7BF;}
 
-p{color:EC5C4E;}
+p{color:#EC5C4E;}
 
 </style>
 
@@ -22,7 +22,7 @@ p{color:EC5C4E;}
 
 <h1>My name is Joah Chavis<h1>
 
-<p>I am a student attending Wake Technical Community College. I am currently studying in the field of Cybersecurity. I like to watch YouTube, read, and play video games during my free time when I'm not at school or working.</p>
+<p>I am a student attending Wake Technical Community College. I am currently studying in the field of Cybersecurity. I like to watch YouTube, read, and play video games during my free time when I'm not at school or working. I have a PS5, an Xbox One S, a Nintendo Switch, and a Gaming PC.</p>
 
 </body>
 
